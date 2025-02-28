@@ -26,6 +26,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'me.hetian.flutter_qr_reader'
     compileSdkVersion 30
 
     defaultConfig {

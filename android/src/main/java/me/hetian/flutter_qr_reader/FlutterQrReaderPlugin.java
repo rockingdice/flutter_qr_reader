@@ -8,7 +8,7 @@ import java.io.File;
 
 import androidx.annotation.NonNull;
 
-import io.flutter.app.FlutterActivityEvents;
+// import io.flutter.app.FlutterActivityEvents;
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.embedding.engine.plugins.activity.ActivityAware;
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding;
@@ -16,7 +16,7 @@ import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
-import io.flutter.plugin.common.PluginRegistry.Registrar;
+// import io.flutter.plugin.common.PluginRegistry.Registrar;
 import me.hetian.flutter_qr_reader.factorys.QrReaderFactory;
 
 /**
